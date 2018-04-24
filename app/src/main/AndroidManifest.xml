@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.khetans.evening.gradecalculatorframework" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Stream"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Engineering_College"
+            android:label="@string/title_activity_engineering__college" >
+        </activity>
+        <activity
+            android:name=".engg_bput_branch"
+            android:label="@string/title_activity_engg_bput_branch" >
+        </activity>
+        <activity
+            android:name=".engg_bput_cse_semester"
+            android:label="@string/title_activity_engg_bput_cse_semester" >
+        </activity>
+        <activity
+            android:name=".engg_bput_cse_sem2_subjects"
+            android:label="@string/title_activity_engg_bput_cse_sem2_subjects" >
+        </activity>
+        <activity
+            android:name=".engg_bput_cse_sem3_subjects"
+            android:label="@string/title_activity_engg_bput_cse_sem3_subjects" >
+        </activity>
+    </application>
+
+</manifest>

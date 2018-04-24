@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grade Calculator Framework</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_engineering__college">Engineering_College</string>
+    <string name="title_activity_engg_bput_branch">engg_bput_branch</string>
+    <string name="title_activity_engg_bput_cse_semester">engg_bput_cse_semester</string>
+    <string name="title_activity_engg_bput_cse_sem2_subjects">engg_bput_cse_sem2_subjects</string>
+    <string name="title_activity_engg_bput_cse_sem3_subjects">engg_bput_cse_sem3_subjects</string>
+    <string name="subject_name">Subject NAME</string>
+    <string name="o_grade">Outstanding</string>
+    <string name="e_grade">Excellent</string>
+    <string name="a_grade">A Grade</string>
+    <string name="b_grade">B Grade</string>
+    <string name="c_grade">C Grade</string>
+    <string name="d_grade">D Grade</string>
+    <string name="f_grade">Fail</string>
+    <string name="subject_code">Subject Code</string>
+    <string name="subject_credit">00</string>
+
+</resources>
